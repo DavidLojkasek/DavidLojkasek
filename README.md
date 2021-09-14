@@ -4,4 +4,5 @@ I have begun learning to code in 2020, during the COVID-19-related lockdowns, an
 projects and automated some repetative tasks in Python.
 
 Twitter: @DavidLojkasek
+
 Email: lojkasek.david@gmail.com
